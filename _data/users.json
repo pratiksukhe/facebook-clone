@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "5ef7a6d8cca11e0d6095d683"
+  },
+  "name": "Pratik Sukhe",
+  "email": "sukhepratikd@gmail.com",
+  "avatar": "//www.gravatar.com/avatar/c57363ff0b34403621aaa0c64ecdb069?s=200&r=pg&d=mm",
+  "password": "$2a$10$W/ys23RnVqK6L374E.tF5O3rWJo5qxIpkX7FeH7e9iRGRUU8.wr0C",
+  "date": {
+    "$date": "2020-06-27T20:06:48.463Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef7a702cca11e0d6095d684"
+  },
+  "name": "Prachiti Pimple",
+  "email": "prachiti@gmail.com",
+  "avatar": "//www.gravatar.com/avatar/baee0a5a92e8df226c718d7696b8567e?s=200&r=pg&d=mm",
+  "password": "$2a$10$eznuXTxIUZz8.q0uRt6ROut.CuN.TFRs7xx7DWW8R72yqGO9tuPAe",
+  "date": {
+    "$date": "2020-06-27T20:07:30.123Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef7a72acca11e0d6095d685"
+  },
+  "name": "Shailesh Sukhe",
+  "email": "shailesh@gmail.com",
+  "avatar": "//www.gravatar.com/avatar/615e4ddeb39a21e852025af299e91277?s=200&r=pg&d=mm",
+  "password": "$2a$10$tOVmGstuvYrjaOjCx7sEhOLc4vWDd7p2S5Xlvtfe4Fw.qmAwsJl4i",
+  "date": {
+    "$date": "2020-06-27T20:08:10.435Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef7a73ecca11e0d6095d686"
+  },
+  "name": "Arya Bhat",
+  "email": "arya@gmail.com",
+  "avatar": "//www.gravatar.com/avatar/3d5f6ecabb024d437483aae3f5942ffd?s=200&r=pg&d=mm",
+  "password": "$2a$10$crTJCDmsDK3xbZl7s4nj1e9sxJjTafuRAaRMqVlRQFwbPTJ0/PnEm",
+  "date": {
+    "$date": "2020-06-27T20:08:30.571Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef7a753cca11e0d6095d687"
+  },
+  "name": "mayank Kumar",
+  "email": "mayank@gmail.com",
+  "avatar": "//www.gravatar.com/avatar/093fb4dd97a62bfba128639e6ed46023?s=200&r=pg&d=mm",
+  "password": "$2a$10$9EM2V5YowDxQhgBWT0zxnOx6rFZHtKnYLa.nodR30T9KJ6iYULDI2",
+  "date": {
+    "$date": "2020-06-27T20:08:51.894Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef7a76bcca11e0d6095d688"
+  },
+  "name": "pawan kumar",
+  "email": "pawan@gmail.com",
+  "avatar": "//www.gravatar.com/avatar/21ab7827c2ebf333e3f005863d20958c?s=200&r=pg&d=mm",
+  "password": "$2a$10$GXiH.rOXpKNP34hewKH9HuHrJe4EKk28PFnucnxBq2/p6NTKFNSfi",
+  "date": {
+    "$date": "2020-06-27T20:09:15.052Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef7a788cca11e0d6095d689"
+  },
+  "name": "Komal saskar",
+  "email": "komal@gmail.com",
+  "avatar": "//www.gravatar.com/avatar/c881492c687665443ca0bd83c89cc06d?s=200&r=pg&d=mm",
+  "password": "$2a$10$Y1WikK4V4rAj0h39I.sT2.RdV5MmdHYwv3GLGZiMawCCVjcPkrgp2",
+  "date": {
+    "$date": "2020-06-27T20:09:44.033Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef7a7a3cca11e0d6095d68a"
+  },
+  "name": "Amol Andhale",
+  "email": "amol@gmail.com",
+  "avatar": "//www.gravatar.com/avatar/ad0543156d6d813d417e2396c76b7fad?s=200&r=pg&d=mm",
+  "password": "$2a$10$satg9d0f9hiYMAffqM4wFufPrxR/9.840rfIDr/6kuR/Eq4FeoKJ6",
+  "date": {
+    "$date": "2020-06-27T20:10:11.175Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef7a7c9cca11e0d6095d68b"
+  },
+  "name": "Revati Shah",
+  "email": "revati@gmail.com",
+  "avatar": "//www.gravatar.com/avatar/9e8a098f09bf6f0fbdcc09c8b7eaa29b?s=200&r=pg&d=mm",
+  "password": "$2a$10$SZf/sDn1YTmFZbhMo7uzZOmBw2ym7fDf1OHCpc7t6vQB8.2M5LgoS",
+  "date": {
+    "$date": "2020-06-27T20:10:49.014Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef7a7facca11e0d6095d68c"
+  },
+  "name": "Sanket Kulkarni",
+  "email": "kulkarnisanketd@gmail.com",
+  "avatar": "//www.gravatar.com/avatar/91ac5e932a8381a14f7837cbebe88115?s=200&r=pg&d=mm",
+  "password": "$2a$10$DJbsxd73iK/7B3AjWUEwheQhZLi4SPbWdcjB8xXTZ.gOQvI6tY6pi",
+  "date": {
+    "$date": "2020-06-27T20:11:38.593Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef7a83ecca11e0d6095d68d"
+  },
+  "name": "Abeek Desai",
+  "email": "abeek@gmail.com",
+  "avatar": "//www.gravatar.com/avatar/b77e162e3f835eb1715c921f81634321?s=200&r=pg&d=mm",
+  "password": "$2a$10$Glot2QT9ePX29QNey2v4N.VQhBpKwJiTw2FOX/vrgdrI.59Neic0S",
+  "date": {
+    "$date": "2020-06-27T20:12:46.731Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef7a854cca11e0d6095d68e"
+  },
+  "name": "Shivam Makwan",
+  "email": "shivam@gmail.com",
+  "avatar": "//www.gravatar.com/avatar/52db15126120e575ab471b046d46fbab?s=200&r=pg&d=mm",
+  "password": "$2a$10$2cnNbWQ5k/l0ZkJYKKZJ6u8mSkfkzxP..Cx.fH/R4AW/5EyNu0l6y",
+  "date": {
+    "$date": "2020-06-27T20:13:08.747Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef7a86fcca11e0d6095d68f"
+  },
+  "name": "Vishal Tigote",
+  "email": "vishal@gmail.com",
+  "avatar": "//www.gravatar.com/avatar/da0f0f805a2f2a65ac02e8e197d223b6?s=200&r=pg&d=mm",
+  "password": "$2a$10$IyPNIca7zrMTraQQf4THfO9EQs/dGqpqMF8/HuBhaLYhMuLKq6MYG",
+  "date": {
+    "$date": "2020-06-27T20:13:35.864Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef7a8a0cca11e0d6095d690"
+  },
+  "name": "Nisha Jakkar",
+  "email": "nisha@gmail.com",
+  "avatar": "//www.gravatar.com/avatar/bd078ca863d89020aeb42ac9e920de98?s=200&r=pg&d=mm",
+  "password": "$2a$10$dX1k8V3v4TUcV0zS7zpk4.jaxUAa24Gdk2SIW26wybPB8zS0HJ5AC",
+  "date": {
+    "$date": "2020-06-27T20:14:24.733Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef7a8c1cca11e0d6095d691"
+  },
+  "name": "Sneha Nimse",
+  "email": "sneha@gmail.com",
+  "avatar": "//www.gravatar.com/avatar/9c38878f483bae07f92244169d0b049f?s=200&r=pg&d=mm",
+  "password": "$2a$10$Fc8Auhw.nvCXZV5DXvTf6ujocB.2qoGhlxisr1zkK2ahWn.0/n3zC",
+  "date": {
+    "$date": "2020-06-27T20:14:57.281Z"
+  },
+  "__v": 0
+}]
